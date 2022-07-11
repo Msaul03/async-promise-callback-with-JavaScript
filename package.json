@@ -1,0 +1,20 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Saul Martinez saulalejandro@\u001b[D41.0308@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fecth": "0.0.1-security",
+    "node-fetch": "^3.2.6",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
